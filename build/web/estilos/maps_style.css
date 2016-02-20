@@ -1,0 +1,60 @@
+*{
+	margin: 0px;
+}
+
+.navbar-header {
+
+	font-size: 33px;
+}
+.navbar{
+	margin-bottom: 25px;
+}
+
+a {
+	font-size: 25px;
+}
+
+
+.footer{
+	background-color: #0064B2;
+}
+
+
+
+#mapa1{
+
+	position: static;
+	top: 0px;
+	z-index: 0;
+
+	width: 100%;
+
+
+	background-color: white;
+
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+
+}
+
+.mapa{
+	position: relative;
+	
+	width: 80%;
+	height: 500px;
+	background-color: #00223D;
+	
+	border-radius: 12px 12px 12px 12px;
+	border: 3px solid #EB2455;
+
+
+	margin: auto;
+   left: 0;
+   right: 0;
+
+   margin-top: 15px;
+	margin-bottom: 15px;
+
+}
+
